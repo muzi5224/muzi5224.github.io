@@ -6,18 +6,18 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "Minimal Mistakes"
 title_separator          : "-"
 subtitle                 : "Development Test Site"
-name                     : "Your Name"
-description              : "Minimal Mistakes theme test."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Min Seo Kim"
+description              : "C language for system programming"
+url                      : "https://muzi5224.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/test"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "muzi5224/muzi5224.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Custom Title" # overrides the website title displayed in the masthead, use " " for no title
@@ -82,10 +82,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Min Seo Kim"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am notorious"
+  location         : "Seoul, Korea"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
