@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "김민서"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나는 위대하다"
+  bio              : "이해가안갔다가 한남동갔다가 이해가안갔다가 한남동갔다가 이해가안갔다가 한남동갔다가 이해가안갔다가 한남동갔다가 이해가안갔다가 한남동갔다가 이해가안갔다가 한남동갔다가 "
   location         : "대한민국, 서울"
   email            : "21-21004@hafs.hs.kr"
   links:
