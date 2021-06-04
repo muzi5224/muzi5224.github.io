@@ -2,6 +2,3 @@
 title : "Youtube Video"
 layout : single
 ---
-
-####Bambi
-{% include video id="8M3WUaeIbOk" provider="youtube" %}
